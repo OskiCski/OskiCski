@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently studyiing robotics engineering and doing this for fun
+🌱 I’m currently studying robotics engineering and doing this for fun
 🤔 I’m looking for help with anything, flat out
 <!--
 **OskiCski/OskiCski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
